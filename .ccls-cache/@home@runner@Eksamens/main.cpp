@@ -9,5 +9,5 @@ int main() {
   if(atb1=="c"){
     sum++;
   }
-
+  
 }
